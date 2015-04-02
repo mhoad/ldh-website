@@ -4,3 +4,4 @@
 - Changed “Downloads” Text to “More Information” on individual display home pages.
 - Ensure Facebook and Twitter links open in new windown on contact page.
 - Install Yoast Wordpress SEO plugin
+- Removed Meta Description tag from header.php to allow Yoast SEO plugin to work correctly
