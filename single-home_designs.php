@@ -95,7 +95,7 @@
 			*/ ?>
 			
 									
-			<h2 class="underline">Downloads</h2>
+			<h2 class="underline">More Information</h2>
 				
 			<div class="body-container">			
 			<p><?php the_field('download_introduction') ?></p>
