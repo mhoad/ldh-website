@@ -14,7 +14,6 @@
 		<script type="text/javascript" src="http://fast.fonts.net/jsapi/a52cf8a8-88ce-41f3-acda-3405cc276ffe.js"></script>
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<meta name="description" content="<?php bloginfo('description'); ?>">
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href="https://fontastic.s3.amazonaws.com/bYt7CMrDYr7nVsX6jBjtem/icons.css" rel="stylesheet">
 		
