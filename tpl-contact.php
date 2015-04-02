@@ -140,13 +140,13 @@ button {
 					<p class="social-icons-contact">
 					<?php if(get_field('facebook_link')) { ?>
 					
-						<a href="http://<?php the_field('facebook_link') ?>" > <i class="fa fa-facebook-square fa-2x"></i></a>
+						<a href="http://<?php the_field('facebook_link') ?>" target="_blank"> <i class="fa fa-facebook-square fa-2x"></i></a>
 					
 					 <?php }?>
 					 
 					 <?php if(get_field('twitter_link')) { ?>
 					
-					 	<a href="http://<?php the_field('twitter_link') ?>" > <i class="fa fa-twitter-square fa-2x"></i></a>
+					 	<a href="http://<?php the_field('twitter_link') ?>" target="_blank"> <i class="fa fa-twitter-square fa-2x"></i></a>
 					
 					 <?php }?>
 				 </p>
