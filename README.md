@@ -11,3 +11,6 @@
 - Ensure search engines cannot access or index the staging site
 - Update Advanced Custom Fields Wordpress plugin from version 4.3.9 to version 4.4.1
 - Enabled 'Force Rewrite Titles' option in Yoast SEO plugin settings to fix messy title tag issue.
+
+06/04/2015
+- Update Contact Form DB from version 2.8.35 to 2.8.36
