@@ -14,3 +14,10 @@
 
 06/04/2015
 - Update Contact Form DB from version 2.8.35 to 2.8.36
+
+23/04/2015
+- Update Contact Form 7 from version 4.1.1 to 4.1.2
+- Update Duplicator from version 0.5.12 to 0.5.16
+- Update Wordpress SEO from version 2.0.1 to 2.1.1
+- Update Twenty Fifteen theme from version 1.0 to 1.1
+- Update Wordpress from version 4.1 to 4.2
